@@ -21,5 +21,5 @@ io.on('connection', (socket) => {
 });
 
 http.listen(port, () => {
-    console.log(`WebSockets Chat with SocketIO, server running at http://localhost:${port}/`);
+    console.log(`WebSockets Chat with SocketIO, server running at http://161.35.107.124:${port}/`);
 });
