@@ -1,0 +1,11 @@
+{
+    "name": "socket-chat-example",
+    "version": "0.0.1",
+    "description": "my first socket.io app",
+    "author": "Anirudh Gadehothur Karanam",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3",
+        "socket.io": "^4.4.1"
+    }
+}
